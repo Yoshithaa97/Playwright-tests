@@ -18,7 +18,7 @@ let num1=10;
 let num2 = 20;
 console.log(num1);
 //const
-const country="india";
+const country="india";:
 const foreigncountry ="germany";
 console.log(country);
 console.log(foreigncountry);
